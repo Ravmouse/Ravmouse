@@ -4,6 +4,6 @@
 
 Список проектов:
 - [leetcode](https://github.com/Ravmouse/leetcode): решение алгоритмических задач с leetcode.com, каждая задача сопровождается тестом на JUnit.
-- [Forum (Форум)](https://github.com/Ravmouse/forum): web-приложение «Форум».
-- [Tic Tac Toe (Крестики-нолики)](https://github.com/Ravmouse/tic_tac_toe): Крестики-нолики, Front - на JS, Back - на Java.
-- [Car Sales (Продажа машин)](https://github.com/Ravmouse/carmarket): web-приложение "Объявления о продаже машин".
+- [Forum](https://github.com/Ravmouse/forum): web-приложение «Форум».
+- [Tic_Tac_Toe](https://github.com/Ravmouse/tic_tac_toe): крестики-нолики, frontend - на JavaScript, backend - на Java.
+- [Car Sales](https://github.com/Ravmouse/carmarket): web-приложение "Объявления о продаже машин".
